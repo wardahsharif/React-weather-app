@@ -65,7 +65,7 @@ export default function Weather(props) {
         <footer>
           This project is created by Wardah Sharif and is{" "}
           <a
-            href="https://github.com/Burgundypanda/react-weather-app"
+            href="https://github.com/wardahsharif/React-weather-app"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -73,7 +73,7 @@ export default function Weather(props) {
           </a>{" "}
           and{" "}
           <a
-            href="https://app.netlify.com/teams/burgundypanda/overview"
+            href="https://forecast-webpage.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
